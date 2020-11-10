@@ -1,0 +1,4 @@
+[submodule "tobias-riis-itbrasil/dev-course"]
+	path = tobias-riis-itbrasil/dev-course
+	url = git@github.com:tobias-riis-itbrasil/dev-course.git
+	branch = test-1
